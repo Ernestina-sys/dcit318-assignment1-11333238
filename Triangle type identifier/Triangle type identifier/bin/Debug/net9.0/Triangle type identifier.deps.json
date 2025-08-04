@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Triangle type identifier/1.0.0": {
+        "runtime": {
+          "Triangle type identifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Triangle type identifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

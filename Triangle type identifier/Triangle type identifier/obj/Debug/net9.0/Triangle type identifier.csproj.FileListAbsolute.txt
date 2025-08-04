@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\bin\Debug\net9.0\Triangle type identifier.exe
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\bin\Debug\net9.0\Triangle type identifier.deps.json
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\bin\Debug\net9.0\Triangle type identifier.runtimeconfig.json
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\bin\Debug\net9.0\Triangle type identifier.dll
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\bin\Debug\net9.0\Triangle type identifier.pdb
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.dll
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\refint\Triangle type identifier.dll
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.pdb
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\Triangle type identifier.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Triangle type identifier\Triangle type identifier\obj\Debug\net9.0\ref\Triangle type identifier.dll
