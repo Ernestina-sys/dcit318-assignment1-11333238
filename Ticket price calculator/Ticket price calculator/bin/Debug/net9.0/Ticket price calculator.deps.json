@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ticket price calculator/1.0.0": {
+        "runtime": {
+          "Ticket price calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket price calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

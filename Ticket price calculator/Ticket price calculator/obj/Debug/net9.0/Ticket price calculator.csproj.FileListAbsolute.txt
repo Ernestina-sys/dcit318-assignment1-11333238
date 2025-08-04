@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\bin\Debug\net9.0\Ticket price calculator.exe
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\bin\Debug\net9.0\Ticket price calculator.deps.json
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\bin\Debug\net9.0\Ticket price calculator.runtimeconfig.json
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\bin\Debug\net9.0\Ticket price calculator.dll
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\bin\Debug\net9.0\Ticket price calculator.pdb
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.dll
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\refint\Ticket price calculator.dll
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.pdb
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\Ticket price calculator.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Ticket price calculator\Ticket price calculator\obj\Debug\net9.0\ref\Ticket price calculator.dll
